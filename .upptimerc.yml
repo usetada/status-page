@@ -5,6 +5,8 @@ repo: status-page # The name of this repository
 sites:
   - name: Processor API
     url: $PROCESSOR_API_URL
+  - name: Evoucher API
+    url: $EGIFT_API_URL
 
 status-website:
   # publish: true
