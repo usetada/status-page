@@ -5,7 +5,7 @@ repo: status-page # The name of this repository
 sites:
   - name: Backoffice API
     url: $BACKOFFICE_API_URL
-    maxResponseTime: 5000
+    maxResponseTime: 500
   - name: Bridge API
     url: $BRIDGE_API_URL
     maxResponseTime: 5000
@@ -52,7 +52,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.usetada.com
+  cname: status.usetada.com
   baseUrl: /status-page
   name: Services Status
   introTitle: TADA Services Status Dashboard
