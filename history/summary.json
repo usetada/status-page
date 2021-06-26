@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processor-api",
     "status": "down",
-    "uptime": "4.57%",
-    "uptimeDay": "4.57%",
-    "uptimeWeek": "4.57%",
-    "uptimeMonth": "4.57%",
-    "uptimeYear": "4.57%",
+    "uptime": "1.95%",
+    "uptimeDay": "1.95%",
+    "uptimeWeek": "1.95%",
+    "uptimeMonth": "1.95%",
+    "uptimeYear": "1.95%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-26": 8
+      "2021-06-26": 20
     }
   }
 ]
