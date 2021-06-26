@@ -16,7 +16,7 @@ sites:
   - name: TADA Insight API
     url: $BRIDGE_API_DASHBOARD_URL
   - name: Processor API
-    url: $PROCESSOR_API_UEL
+    url: $PROCESSOR_API_URL
   - name: Evoucher API
     url: $EGIFT_API_URL
   - name: Loyalty API
