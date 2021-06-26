@@ -4,19 +4,19 @@
     "url": "$PROCESSOR_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processor-api",
-    "status": "down",
-    "uptime": "1.44%",
-    "uptimeDay": "1.44%",
-    "uptimeWeek": "1.44%",
-    "uptimeMonth": "1.44%",
-    "uptimeYear": "1.44%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.66%",
+    "uptimeDay": "0.66%",
+    "uptimeWeek": "0.66%",
+    "uptimeMonth": "0.66%",
+    "uptimeYear": "0.66%",
+    "time": 995,
+    "timeDay": 995,
+    "timeWeek": 995,
+    "timeMonth": 995,
+    "timeYear": 995,
     "dailyMinutesDown": {
-      "2021-06-26": 27
+      "2021-06-26": 67
     }
   }
 ]
