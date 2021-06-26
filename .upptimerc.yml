@@ -46,8 +46,13 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: TADA
+      href: https://www.usetada.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: ocean
+  logoUrl: https://www.usetada.com/hubfs/Images/TADA-LOGO-01.png
+  favicon: https://www.usetada.com/hubfs/TADA_January2019/Images/xfavicon.png.pagespeed.ic.0C3Wf7ckvY.webp
 
 # runner: self-hosted
 user-agent: rbudiharso
