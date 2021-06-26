@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "backoffice-api",
     "status": "degraded",
-    "uptime": "84.99%",
-    "uptimeDay": "84.99%",
-    "uptimeWeek": "84.99%",
-    "uptimeMonth": "84.99%",
-    "uptimeYear": "84.99%",
+    "uptime": "84.88%",
+    "uptimeDay": "84.88%",
+    "uptimeWeek": "84.88%",
+    "uptimeMonth": "84.88%",
+    "uptimeYear": "84.88%",
     "time": 1168,
     "timeDay": 1168,
     "timeWeek": 1168,
     "timeMonth": 1168,
     "timeYear": 1168,
     "dailyMinutesDown": {
-      "2021-06-26": 16
+      "2021-06-26": 17
     }
   },
   {
