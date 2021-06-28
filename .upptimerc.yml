@@ -48,6 +48,15 @@ sites:
   - name: Msite
     url: $MSITE_URL
     maxResponseTime: 5000
+  - name: Delivery API
+    url: $OOT_API_URL
+    maxResponseTime: 5000
+  - name: Delivery Website
+    url: $OOT_WEB_URL
+    maxResponseTime: 5000
+  - name: Buyfrom.io
+    url: $BUYFROM_IO_URL
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
