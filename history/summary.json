@@ -190,19 +190,19 @@
     "url": "$INVENTORY_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "inventory-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 635,
-    "timeWeek": 817,
-    "timeMonth": 767,
-    "timeYear": 767,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 761,
+    "timeDay": 636,
+    "timeWeek": 797,
+    "timeMonth": 761,
+    "timeYear": 761,
     "dailyMinutesDown": {
-      "2021-07-06": 0
+      "2021-07-06": 20
     }
   },
   {
