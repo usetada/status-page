@@ -4,19 +4,19 @@
     "url": "$INSIGHT_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-insight",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 1181,
-    "timeDay": 1181,
-    "timeWeek": 1181,
-    "timeMonth": 1181,
-    "timeYear": 1181,
+    "status": "up",
+    "uptime": "97.70%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.70%",
+    "time": 1128,
+    "timeDay": 1128,
+    "timeWeek": 1128,
+    "timeMonth": 1128,
+    "timeYear": 1128,
     "dailyMinutesDown": {
-      "2021-07-29": 0
+      "2021-07-29": 8
     }
   },
   {
