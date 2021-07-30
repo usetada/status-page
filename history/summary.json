@@ -42,19 +42,19 @@
     "url": "$WALLET_WEB_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-wallet-web",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 1780,
-    "timeDay": 1695,
-    "timeWeek": 1780,
-    "timeMonth": 1780,
-    "timeYear": 1780,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 1817,
+    "timeDay": 1813,
+    "timeWeek": 1817,
+    "timeMonth": 1817,
+    "timeYear": 1817,
     "dailyMinutesDown": {
-      "2021-07-30": 2
+      "2021-07-30": 7
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "$BUYFROM_IO_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "buyfrom-io",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2830,
-    "timeDay": 16017,
-    "timeWeek": 5103,
-    "timeMonth": 2875,
-    "timeYear": 2830,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2796,
+    "timeDay": 11203,
+    "timeWeek": 4782,
+    "timeMonth": 2837,
+    "timeYear": 2796,
     "dailyMinutesDown": {
-      "2021-07-30": 0
+      "2021-07-30": 5
     }
   },
   {
