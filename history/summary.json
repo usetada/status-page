@@ -81,19 +81,19 @@
     "url": "$OOT_WEB_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "delivery-website",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1246,
-    "timeDay": 8499,
-    "timeWeek": 2702,
-    "timeMonth": 1446,
-    "timeYear": 1246,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1251,
+    "timeDay": 6158,
+    "timeWeek": 2566,
+    "timeMonth": 1447,
+    "timeYear": 1251,
     "dailyMinutesDown": {
-      "2021-08-14": 0
+      "2021-08-14": 12
     }
   },
   {
