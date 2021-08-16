@@ -141,19 +141,19 @@
     "url": "$BRIDGE_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bridge-api",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "88.56%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.78%",
     "time": 1226,
     "timeDay": 15279,
     "timeWeek": 4390,
     "timeMonth": 1649,
     "timeYear": 1226,
     "dailyMinutesDown": {
-      "2021-08-16": 0
+      "2021-08-16": 165
     }
   },
   {
