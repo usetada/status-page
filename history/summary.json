@@ -177,19 +177,19 @@
     "url": "$BRIDGE_API_WALLET_WEB_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-wallet-web-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 843,
-    "timeDay": 1015,
-    "timeWeek": 680,
-    "timeMonth": 811,
-    "timeYear": 843,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 857,
+    "timeDay": 1273,
+    "timeWeek": 803,
+    "timeMonth": 839,
+    "timeYear": 857,
     "dailyMinutesDown": {
-      "2021-08-18": 0
+      "2021-08-18": 7
     }
   },
   {
