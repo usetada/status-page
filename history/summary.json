@@ -160,18 +160,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-wallet-api",
     "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.91%",
     "time": 1242,
     "timeDay": 15212,
     "timeWeek": 4354,
     "timeMonth": 1687,
     "timeYear": 1242,
     "dailyMinutesDown": {
-      "2021-08-18": 2
+      "2021-08-18": 66
     }
   },
   {
@@ -200,18 +200,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-partner-api",
     "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.92%",
     "time": 1295,
     "timeDay": 14914,
     "timeWeek": 4285,
     "timeMonth": 1693,
     "timeYear": 1295,
     "dailyMinutesDown": {
-      "2021-08-18": 0
+      "2021-08-18": 64
     }
   },
   {
@@ -335,18 +335,20 @@
     "url": "$PAYMENT_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "payment-api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 828,
-    "timeDay": 984,
-    "timeWeek": 812,
-    "timeMonth": 843,
-    "timeYear": 828,
-    "dailyMinutesDown": {}
+    "time": 1274,
+    "timeDay": 15408,
+    "timeWeek": 4439,
+    "timeMonth": 1696,
+    "timeYear": 1274,
+    "dailyMinutesDown": {
+      "2021-08-18": 0
+    }
   },
   {
     "name": "Vendor API",
