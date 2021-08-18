@@ -159,18 +159,20 @@
     "url": "$BRIDGE_API_TADA_WALLET_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-wallet-api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 800,
-    "timeDay": 928,
-    "timeWeek": 763,
-    "timeMonth": 844,
-    "timeYear": 800,
-    "dailyMinutesDown": {}
+    "time": 1242,
+    "timeDay": 15212,
+    "timeWeek": 4354,
+    "timeMonth": 1687,
+    "timeYear": 1242,
+    "dailyMinutesDown": {
+      "2021-08-18": 2
+    }
   },
   {
     "name": "TADA Wallet Web API",
@@ -197,18 +199,20 @@
     "url": "$BRIDGE_API_TADA_PARTNER_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-partner-api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 335,
-    "timeWeek": 684,
-    "timeMonth": 850,
-    "timeYear": 855,
-    "dailyMinutesDown": {}
+    "time": 1295,
+    "timeDay": 14914,
+    "timeWeek": 4285,
+    "timeMonth": 1693,
+    "timeYear": 1295,
+    "dailyMinutesDown": {
+      "2021-08-18": 0
+    }
   },
   {
     "name": "TADA Insight API",
