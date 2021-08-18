@@ -159,19 +159,19 @@
     "url": "$BRIDGE_API_TADA_WALLET_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-wallet-api",
-    "status": "degraded",
-    "uptime": "99.90%",
-    "uptimeDay": "94.60%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.90%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "94.02%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.89%",
     "time": 1242,
-    "timeDay": 15212,
-    "timeWeek": 4354,
-    "timeMonth": 1687,
+    "timeDay": 10573,
+    "timeWeek": 4014,
+    "timeMonth": 1676,
     "timeYear": 1242,
     "dailyMinutesDown": {
-      "2021-08-18": 78
+      "2021-08-18": 86
     }
   },
   {
@@ -199,19 +199,19 @@
     "url": "$BRIDGE_API_TADA_PARTNER_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-partner-api",
-    "status": "degraded",
-    "uptime": "99.90%",
-    "uptimeDay": "94.70%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.90%",
-    "time": 1295,
-    "timeDay": 14914,
-    "timeWeek": 4285,
-    "timeMonth": 1693,
-    "timeYear": 1295,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "94.12%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.89%",
+    "time": 1292,
+    "timeDay": 10288,
+    "timeWeek": 3924,
+    "timeMonth": 1674,
+    "timeYear": 1292,
     "dailyMinutesDown": {
-      "2021-08-18": 76
+      "2021-08-18": 85
     }
   },
   {
@@ -336,19 +336,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "payment-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1270,
     "timeDay": 10592,
     "timeWeek": 4052,
     "timeMonth": 1675,
     "timeYear": 1270,
-    "dailyMinutesDown": {
-      "2021-08-18": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vendor API",
