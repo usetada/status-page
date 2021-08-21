@@ -25,19 +25,19 @@
     "url": "$PARTNER_WEB_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-partner-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1169,
-    "timeDay": 1236,
-    "timeWeek": 1154,
-    "timeMonth": 1169,
-    "timeYear": 1169,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 1162,
+    "timeDay": 1152,
+    "timeWeek": 1135,
+    "timeMonth": 1162,
+    "timeYear": 1162,
     "dailyMinutesDown": {
-      "2021-08-21": 0
+      "2021-08-21": 69
     }
   },
   {
