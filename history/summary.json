@@ -25,9 +25,9 @@
     "url": "$PARTNER_WEB_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-partner-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 1118,
     "timeMonth": 1160,
     "timeYear": 1160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-21": 0
+    }
   },
   {
     "name": "TADA Wallet Web",
