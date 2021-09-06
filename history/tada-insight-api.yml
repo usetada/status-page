@@ -1,7 +1,7 @@
 url: $BRIDGE_API_DASHBOARD_URL
-status: down
-code: 503
-responseTime: 257
-lastUpdated: 2021-09-06T10:09:20.425Z
+status: up
+code: 200
+responseTime: 872
+lastUpdated: 2021-09-06T10:22:21.874Z
 startTime: Sat Jun 26 2021 12:18:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
