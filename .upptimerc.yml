@@ -1,8 +1,25 @@
-# Change these first
-owner: usetada # Your GitHub organization or username, where this repository lives
-repo: status-page # The name of this repository
+owner: usetada
+repo: status-page
 
 sites:
+  - name: TADA Insight
+    url: $INSIGHT_URL
+    maxResponseTime: 5000
+  - name: TADA Partner Web
+    url: $PARTNER_WEB_URL
+    maxResponseTime: 5000
+  - name: TADA Wallet Web
+    url: $WALLET_WEB_URL
+    maxResponseTime: 5000
+  - name: Msite
+    url: $MSITE_URL
+    maxResponseTime: 5000
+  - name: Delivery Website
+    url: $OOT_WEB_URL
+    maxResponseTime: 5000
+  - name: Buyfrom.io
+    url: $BUYFROM_IO_URL
+    maxResponseTime: 5000
   - name: Backoffice API
     url: $BACKOFFICE_API_URL
     maxResponseTime: 5000
@@ -45,39 +62,24 @@ sites:
   - name: Msite API
     url: $BRIDGE_API_MSITE_URL
     maxResponseTime: 5000
-  - name: Msite
-    url: $MSITE_URL
-    maxResponseTime: 5000
   - name: Delivery API
     url: $OOT_API_URL
     maxResponseTime: 5000
-  - name: Delivery Website
-    url: $OOT_WEB_URL
-    maxResponseTime: 5000
-  - name: Buyfrom.io
-    url: $BUYFROM_IO_URL
-    maxResponseTime: 5000
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.usetada.com
-  # baseUrl: /status-page
   name: Services Status
   introTitle: TADA Services Status Dashboard
-  # introMessage: Testing
   navbar:
     - title: Status
       href: /
     - title: TADA
       href: https://www.usetada.com
-    # - title: GitHub
-    #   href: https://github.com/$OWNER/$REPO
   theme: light
   logoUrl: https://www.usetada.com/hubfs/Images/TADA-LOGO-01.png
   favicon: https://www.usetada.com/hubfs/TADA_January2019/Images/xfavicon.png.pagespeed.ic.0C3Wf7ckvY.webp
 
-# runner: self-hosted
 user-agent: rbudiharso
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
