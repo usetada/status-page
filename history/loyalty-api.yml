@@ -1,7 +1,7 @@
 url: $LOYALTY_API_URL
-status: up
+status: degraded
 code: 200
-responseTime: 295
-lastUpdated: 2021-10-28T23:00:50.477Z
+responseTime: 11016
+lastUpdated: 2021-10-29T00:58:41.125Z
 startTime: Sat Jun 26 2021 12:19:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
