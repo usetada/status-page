@@ -404,19 +404,19 @@
     "url": "$OOT_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "delivery-api",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 964,
-    "timeDay": 8309,
-    "timeWeek": 2518,
-    "timeMonth": 1287,
+    "timeDay": 5835,
+    "timeWeek": 2337,
+    "timeMonth": 1275,
     "timeYear": 964,
     "dailyMinutesDown": {
-      "2021-11-05": 0
+      "2021-11-05": 14
     }
   }
 ]
