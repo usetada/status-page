@@ -1,7 +1,7 @@
 url: $WALLET_WEB_URL
-status: degraded
-code: 500
-responseTime: 8657
-lastUpdated: 2021-11-19T10:47:14.243Z
+status: up
+code: 200
+responseTime: 2861
+lastUpdated: 2021-11-19T10:54:32.494Z
 startTime: Thu Jul 29 2021 03:28:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
