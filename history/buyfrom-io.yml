@@ -1,7 +1,7 @@
 url: $BUYFROM_IO_URL
-status: up
+status: degraded
 code: 200
-responseTime: 1650
-lastUpdated: 2021-12-25T23:00:45.042Z
+responseTime: 6020
+lastUpdated: 2021-12-26T11:03:54.917Z
 startTime: Mon Jun 28 2021 08:09:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
