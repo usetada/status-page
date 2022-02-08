@@ -76,7 +76,7 @@ status-website:
     - title: TADA
       href: https://www.usetada.com
   theme: light
-  logoUrl: https://www.usetada.com/hubfs/Images/TADA-LOGO-01.png
+  logoUrl: https://github.com/usetada/status-page/raw/6b16a09b994da741375dfa29157cab4f007e53dd/tada-new-logo-final-x-1.png
   favicon: https://www.usetada.com/hubfs/TADA_January2019/Images/xfavicon.png.pagespeed.ic.0C3Wf7ckvY.webp
 
 user-agent: rbudiharso
