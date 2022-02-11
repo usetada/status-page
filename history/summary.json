@@ -234,18 +234,20 @@
     "url": "$BRIDGE_API_DASHBOARD_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-insight-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 768,
-    "timeDay": 878,
-    "timeWeek": 827,
-    "timeMonth": 770,
+    "timeDay": 883,
+    "timeWeek": 833,
+    "timeMonth": 774,
     "timeYear": 768,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-11": 0
+    }
   },
   {
     "name": "Processor API",
