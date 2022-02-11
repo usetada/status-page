@@ -234,19 +234,19 @@
     "url": "$BRIDGE_API_DASHBOARD_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-insight-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 883,
-    "timeWeek": 833,
-    "timeMonth": 774,
-    "timeYear": 768,
+    "time": 769,
+    "timeDay": 900,
+    "timeWeek": 844,
+    "timeMonth": 778,
+    "timeYear": 769,
     "dailyMinutesDown": {
-      "2022-02-11": 0
+      "2022-02-11": 8
     }
   },
   {
