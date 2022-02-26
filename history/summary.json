@@ -255,18 +255,19 @@
     "url": "$PROCESSOR_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processor-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 811,
-    "timeDay": 648,
-    "timeWeek": 806,
-    "timeMonth": 772,
-    "timeYear": 811,
+    "time": 809,
+    "timeDay": 463,
+    "timeWeek": 740,
+    "timeMonth": 757,
+    "timeYear": 809,
     "dailyMinutesDown": {
+      "2022-02-26": 0,
       "2021-06-26": 67
     }
   },
@@ -317,9 +318,9 @@
     "slug": "order-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 759,
     "timeDay": 692,
@@ -327,7 +328,7 @@
     "timeMonth": 782,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2022-02-26": 0
+      "2022-02-26": 13
     }
   },
   {
