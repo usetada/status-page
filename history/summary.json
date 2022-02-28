@@ -120,7 +120,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
     "time": 4029,
-    "timeDay": 3216,
+    "timeDay": 1319,
     "timeWeek": 2229,
     "timeMonth": 4965,
     "timeYear": 4029,
@@ -398,18 +398,20 @@
     "url": "$BRIDGE_API_MSITE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "msite-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 752,
-    "timeDay": 714,
-    "timeWeek": 556,
-    "timeMonth": 695,
+    "timeDay": 675,
+    "timeWeek": 566,
+    "timeMonth": 693,
     "timeYear": 752,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 1
+    }
   },
   {
     "name": "Delivery API",
