@@ -398,19 +398,19 @@
     "url": "$BRIDGE_API_MSITE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "msite-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 752,
-    "timeDay": 675,
-    "timeWeek": 566,
-    "timeMonth": 693,
-    "timeYear": 752,
+    "time": 750,
+    "timeDay": 531,
+    "timeWeek": 531,
+    "timeMonth": 680,
+    "timeYear": 750,
     "dailyMinutesDown": {
-      "2022-02-28": 1
+      "2022-02-28": 9
     }
   },
   {
