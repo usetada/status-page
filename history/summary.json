@@ -97,19 +97,19 @@
     "url": "$OOT_WEB_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "delivery-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 830,
-    "timeDay": 827,
-    "timeWeek": 759,
-    "timeMonth": 723,
-    "timeYear": 830,
+    "time": 828,
+    "timeDay": 656,
+    "timeWeek": 710,
+    "timeMonth": 708,
+    "timeYear": 828,
     "dailyMinutesDown": {
-      "2022-03-11": 0
+      "2022-03-11": 8
     }
   },
   {
@@ -421,19 +421,19 @@
     "url": "$OOT_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "delivery-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 872,
-    "timeDay": 510,
-    "timeWeek": 635,
-    "timeMonth": 692,
+    "timeDay": 685,
+    "timeWeek": 680,
+    "timeMonth": 704,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2022-03-11": 0
+      "2022-03-11": 8
     }
   }
 ]
