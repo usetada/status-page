@@ -1,7 +1,7 @@
 url: $OOT_WEB_URL
-status: down
-code: 526
-responseTime: 867
-lastUpdated: 2022-03-11T09:50:01.602Z
+status: up
+code: 200
+responseTime: 316
+lastUpdated: 2022-03-11T09:58:04.032Z
 startTime: Mon Jun 28 2021 08:09:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
