@@ -97,18 +97,20 @@
     "url": "$OOT_WEB_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "delivery-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 830,
-    "timeDay": 786,
-    "timeWeek": 744,
-    "timeMonth": 717,
+    "timeDay": 827,
+    "timeWeek": 759,
+    "timeMonth": 723,
     "timeYear": 830,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 0
+    }
   },
   {
     "name": "Buyfrom.io",
@@ -419,17 +421,19 @@
     "url": "$OOT_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "delivery-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 874,
-    "timeDay": 680,
-    "timeWeek": 677,
-    "timeMonth": 705,
-    "timeYear": 874,
-    "dailyMinutesDown": {}
+    "time": 872,
+    "timeDay": 510,
+    "timeWeek": 635,
+    "timeMonth": 692,
+    "timeYear": 872,
+    "dailyMinutesDown": {
+      "2022-03-11": 0
+    }
   }
 ]
