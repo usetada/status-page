@@ -2,13 +2,16 @@ owner: usetada
 repo: status-page
 
 sites:
-  - name: TADA Insight
+  - name: Tada Website
+    url: $WEBSITE_URL
+    maxResponseTime: 5000
+  - name: Tada Insight
     url: $INSIGHT_URL
     maxResponseTime: 5000
-  - name: TADA Partner Web
+  - name: Tada Partner Web
     url: $PARTNER_WEB_URL
     maxResponseTime: 5000
-  - name: TADA Wallet Web
+  - name: Tada Wallet Web
     url: $WALLET_WEB_URL
     maxResponseTime: 5000
   - name: Msite
@@ -26,16 +29,16 @@ sites:
   - name: Bridge API
     url: $BRIDGE_API_URL
     maxResponseTime: 5000
-  - name: TADA Wallet API
+  - name: Tada Wallet API
     url: $BRIDGE_API_TADA_WALLET_URL
     maxResponseTime: 5000
-  - name: TADA Wallet Web API
+  - name: Tada Wallet Web API
     url: $BRIDGE_API_WALLET_WEB_URL
     maxResponseTime: 5000
-  - name: TADA Partner API
+  - name: Tada Partner API
     url: $BRIDGE_API_TADA_PARTNER_URL
     maxResponseTime: 5000
-  - name: TADA Insight API
+  - name: Tada Insight API
     url: $BRIDGE_API_DASHBOARD_URL
     maxResponseTime: 5000
   - name: Processor API
@@ -69,11 +72,11 @@ sites:
 status-website:
   cname: status.usetada.com
   name: Services Status
-  introTitle: TADA Services Status Dashboard
+  introTitle: Tada Services Status Dashboard
   navbar:
     - title: Status
       href: /
-    - title: TADA
+    - title: Tada
       href: https://www.usetada.com
   theme: light
   logoUrl: https://github.com/usetada/status-page/raw/6b16a09b994da741375dfa29157cab4f007e53dd/tada-new-logo-final-x-1.png
