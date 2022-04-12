@@ -4,19 +4,19 @@
     "url": "$WEBSITE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-website",
-    "status": "degraded",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 3844,
-    "timeDay": 4421,
-    "timeWeek": 3844,
-    "timeMonth": 3844,
-    "timeYear": 3844,
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 3556,
+    "timeDay": 3844,
+    "timeWeek": 3556,
+    "timeMonth": 3556,
+    "timeYear": 3556,
     "dailyMinutesDown": {
-      "2022-04-12": 0
+      "2022-04-12": 17
     }
   },
   {
