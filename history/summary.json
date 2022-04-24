@@ -106,9 +106,9 @@
     "slug": "msite",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 2319,
     "timeDay": 5136,
@@ -116,7 +116,6 @@
     "timeMonth": 3121,
     "timeYear": 2319,
     "dailyMinutesDown": {
-      "2022-04-23": 12,
       "2022-04-21": 50,
       "2021-10-29": 29
     }
