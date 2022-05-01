@@ -4,10 +4,10 @@
     "url": "$WEBSITE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tada-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
     "time": 4011,
@@ -16,6 +16,7 @@
     "timeMonth": 4011,
     "timeYear": 4011,
     "dailyMinutesDown": {
+      "2022-05-01": 1,
       "2022-04-26": 26,
       "2022-04-18": 15,
       "2022-04-12": 17
@@ -105,9 +106,9 @@
     "url": "$MSITE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "msite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.97%",
@@ -117,6 +118,7 @@
     "timeMonth": 3855,
     "timeYear": 2464,
     "dailyMinutesDown": {
+      "2022-05-01": 0,
       "2022-04-26": 33,
       "2022-04-21": 50,
       "2021-10-29": 29
