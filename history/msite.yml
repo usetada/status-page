@@ -1,7 +1,7 @@
 url: $MSITE_URL
-status: down
-code: 521
-responseTime: 2154
-lastUpdated: 2022-06-07T00:23:55.673Z
+status: up
+code: 200
+responseTime: 3723
+lastUpdated: 2022-06-07T00:46:31.185Z
 startTime: Sat Jun 26 2021 12:19:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
