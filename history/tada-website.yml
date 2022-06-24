@@ -1,7 +1,7 @@
 url: $WEBSITE_URL
-status: degraded
+status: up
 code: 200
-responseTime: 6313
-lastUpdated: 2022-06-24T13:54:06.231Z
+responseTime: 4338
+lastUpdated: 2022-06-24T14:02:36.217Z
 startTime: Mon Apr 11 2022 07:23:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
