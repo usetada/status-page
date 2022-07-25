@@ -1,7 +1,7 @@
 url: $VENDOR_API_URL
-status: degraded
-code: 504
-responseTime: 29178
-lastUpdated: 2022-07-25T09:50:25.596Z
+status: up
+code: 200
+responseTime: 729
+lastUpdated: 2022-07-25T09:57:04.245Z
 startTime: Sat Jun 26 2021 12:19:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
