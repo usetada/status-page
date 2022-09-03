@@ -335,18 +335,20 @@
     "url": "$PROCESSOR_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processor-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 790,
-    "timeDay": 559,
-    "timeWeek": 769,
-    "timeMonth": 788,
-    "timeYear": 781,
-    "dailyMinutesDown": {}
+    "time": 797,
+    "timeDay": 2131,
+    "timeWeek": 1136,
+    "timeMonth": 882,
+    "timeYear": 789,
+    "dailyMinutesDown": {
+      "2022-09-03": 0
+    }
   },
   {
     "name": "Evoucher API",
