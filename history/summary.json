@@ -2,20 +2,21 @@
   {
     "name": "Tada Website",
     "url": "$WEBSITE_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tada-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.47%",
-    "time": 4105,
-    "timeDay": 6150,
-    "timeWeek": 6303,
-    "timeMonth": 4869,
-    "timeYear": 4105,
+    "time": 4095,
+    "timeDay": 2610,
+    "timeWeek": 5859,
+    "timeMonth": 4764,
+    "timeYear": 4095,
     "dailyMinutesDown": {
+      "2022-10-02": 0,
       "2022-09-21": 20,
       "2022-08-22": 19,
       "2022-08-21": 63,
@@ -45,7 +46,7 @@
   {
     "name": "Tada Insight",
     "url": "$INSIGHT_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tada-insight",
     "status": "up",
     "uptime": "99.94%",
@@ -72,7 +73,7 @@
   {
     "name": "Tada Partner Web",
     "url": "$PARTNER_WEB_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tada-partner-web",
     "status": "up",
     "uptime": "99.95%",
@@ -95,7 +96,7 @@
   {
     "name": "Tada Wallet Web",
     "url": "$WALLET_WEB_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tada-wallet-web",
     "status": "up",
     "uptime": "99.90%",
@@ -128,7 +129,7 @@
   {
     "name": "Msite",
     "url": "$MSITE_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "msite",
     "status": "up",
     "uptime": "99.78%",
@@ -170,7 +171,7 @@
   {
     "name": "Delivery Website",
     "url": "$OOT_WEB_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "delivery-website",
     "status": "up",
     "uptime": "99.98%",
@@ -191,7 +192,7 @@
   {
     "name": "Buyfrom.io",
     "url": "$BUYFROM_IO_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "buyfrom-io",
     "status": "up",
     "uptime": "99.92%",
@@ -220,7 +221,7 @@
   {
     "name": "Backoffice API",
     "url": "$BACKOFFICE_API_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backoffice-api",
     "status": "up",
     "uptime": "99.99%",
@@ -238,7 +239,7 @@
   {
     "name": "Bridge API",
     "url": "$BRIDGE_API_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bridge-api",
     "status": "up",
     "uptime": "100.00%",
@@ -258,7 +259,7 @@
   {
     "name": "Tada Wallet API",
     "url": "$BRIDGE_API_TADA_WALLET_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tada-wallet-api",
     "status": "up",
     "uptime": "99.98%",
@@ -279,7 +280,7 @@
   {
     "name": "Tada Wallet Web API",
     "url": "$BRIDGE_API_WALLET_WEB_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tada-wallet-web-api",
     "status": "up",
     "uptime": "100.00%",
@@ -297,7 +298,7 @@
   {
     "name": "Tada Partner API",
     "url": "$BRIDGE_API_TADA_PARTNER_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tada-partner-api",
     "status": "up",
     "uptime": "99.98%",
@@ -317,7 +318,7 @@
   {
     "name": "Tada Insight API",
     "url": "$BRIDGE_API_DASHBOARD_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tada-insight-api",
     "status": "up",
     "uptime": "100.00%",
@@ -335,7 +336,7 @@
   {
     "name": "Processor API",
     "url": "$PROCESSOR_API_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "processor-api",
     "status": "up",
     "uptime": "99.95%",
@@ -355,7 +356,7 @@
   {
     "name": "Evoucher API",
     "url": "$EGIFT_API_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "evoucher-api",
     "status": "up",
     "uptime": "100.00%",
@@ -373,7 +374,7 @@
   {
     "name": "Loyalty API",
     "url": "$LOYALTY_API_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "loyalty-api",
     "status": "up",
     "uptime": "100.00%",
@@ -393,7 +394,7 @@
   {
     "name": "Order API",
     "url": "$ORDER_API_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "order-api",
     "status": "up",
     "uptime": "100.00%",
@@ -413,7 +414,7 @@
   {
     "name": "Inventory API",
     "url": "$INVENTORY_API_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "inventory-api",
     "status": "up",
     "uptime": "99.99%",
@@ -431,7 +432,7 @@
   {
     "name": "Payment API",
     "url": "$PAYMENT_API_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "payment-api",
     "status": "up",
     "uptime": "99.99%",
@@ -452,7 +453,7 @@
   {
     "name": "Vendor API",
     "url": "$VENDOR_API_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vendor-api",
     "status": "up",
     "uptime": "99.99%",
@@ -474,7 +475,7 @@
   {
     "name": "Msite API",
     "url": "$BRIDGE_API_MSITE_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "msite-api",
     "status": "up",
     "uptime": "100.00%",
@@ -492,7 +493,7 @@
   {
     "name": "Delivery API",
     "url": "$OOT_API_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "delivery-api",
     "status": "up",
     "uptime": "99.98%",
