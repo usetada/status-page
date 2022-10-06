@@ -1,7 +1,7 @@
 url: $BRIDGE_API_WALLET_WEB_URL
-status: down
-code: 503
-responseTime: 972
-lastUpdated: 2022-10-06T13:15:33.133Z
+status: up
+code: 200
+responseTime: 586
+lastUpdated: 2022-10-06T14:23:56.503Z
 startTime: Sat Jun 26 2021 12:18:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
