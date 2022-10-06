@@ -4,19 +4,19 @@
     "url": "$WEBSITE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tada-website",
-    "status": "down",
-    "uptime": "97.42%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "47.46%",
-    "uptimeMonth": "87.86%",
-    "uptimeYear": "97.42%",
-    "time": 4058,
-    "timeDay": 106,
-    "timeWeek": 3272,
-    "timeMonth": 4441,
-    "timeYear": 4058,
+    "status": "up",
+    "uptime": "97.41%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "47.22%",
+    "uptimeMonth": "87.81%",
+    "uptimeYear": "97.41%",
+    "time": 4057,
+    "timeDay": 1933,
+    "timeWeek": 3316,
+    "timeMonth": 4423,
+    "timeYear": 4057,
     "dailyMinutesDown": {
-      "2022-10-06": 796,
+      "2022-10-06": 820,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
@@ -288,9 +288,9 @@
     "slug": "tada-wallet-web-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 776,
     "timeDay": 924,
@@ -298,7 +298,7 @@
     "timeMonth": 773,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2022-10-06": 1
+      "2022-10-06": 25
     }
   },
   {
@@ -485,9 +485,9 @@
     "slug": "msite-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 759,
     "timeDay": 920,
@@ -495,7 +495,7 @@
     "timeMonth": 731,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2022-10-06": 1
+      "2022-10-06": 25
     }
   },
   {
