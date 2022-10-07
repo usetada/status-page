@@ -63,7 +63,7 @@ sites:
     url: $VENDOR_API_URL
     maxResponseTime: 5000
   - name: Msite API
-    url: $BRIDGE_API_MSITE_URL
+    url: $BRIDGE_API_DASHBOARD_URL
     maxResponseTime: 5000
   - name: Delivery API
     url: $OOT_API_URL
